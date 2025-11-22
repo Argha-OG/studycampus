@@ -352,7 +352,7 @@ const About = () => {
             </div>
 
             {/* Our Team Section */}
-            <div className="space-y-6">
+            <div className="hidden space-y-6">
                 <div className="text-center space-y-3">
                     <h2 className="text-3xl sm:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
                         Meet Our Team
