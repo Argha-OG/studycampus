@@ -30,30 +30,30 @@ const Contact = () => {
     };
 
     const contactInfo = [
-        {
-            icon: <Mail className="h-6 w-6" />,
-            title: "Email Us",
-            details: ["eadventure.info@gmail.com", "Support@syntax.com"],
-            color: "primary"
-        },
-        {
-            icon: <Phone className="h-6 w-6" />,
-            title: "Call Us",
-            details: ["+880 13-3679 2001", "+60 11‑3963 8206"],
-            color: "secondary"
-        },
-        {
-            icon: <MapPin className="h-6 w-6" />,
-            title: "Visit Us",
-            details: ["House-1019, Level: 05 , Road no-09 , avenue no-10 , Mirpur DOHS , Pallabi , dhaka-1216"],
-            color: "accent"
-        },
-        {
-            icon: <Clock className="h-6 w-6" />,
-            title: "Office Hours",
-            details: ["Mon - Fri: 9:00 AM - 6:00 PM", "Sat: 10:00 AM - 2:00 PM"],
-            color: "primary"
-        }
+      {
+        icon: <Mail className="h-6 w-6" />,
+        title: "Email Us",
+        details: ["studycampusmalaysia@gmail.com"],
+        color: "primary",
+      },
+      {
+        icon: <Phone className="h-6 w-6" />,
+        title: "Call Us",
+        details: ["+6019-493 4099"],
+        color: "secondary",
+      },
+      {
+        icon: <MapPin className="h-6 w-6" />,
+        title: "Visit Us",
+        details: ["South City Plaza, Kuala Lumpur, Malaysia"],
+        color: "accent",
+      },
+      {
+        icon: <Clock className="h-6 w-6" />,
+        title: "Office Hours",
+        details: ["Mon - Fri: 9:00 AM - 6:00 PM", "Sat: 10:00 AM - 2:00 PM"],
+        color: "primary",
+      },
     ];
 
     const faqs = [
